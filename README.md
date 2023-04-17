@@ -22,4 +22,4 @@
 # למעבר למשחק באתר itch.io : 
 
 
- [itch.io:arrow_forward:](https://gamedevk-g.itch.io/tetrisracinggame) 
+ [TetricRacingGame-itch.io:arrow_forward:](https://gamedevk-g.itch.io/tetrisracinggame) 
