@@ -19,5 +19,7 @@
  
  <img width="672" alt="Screen Shot 2023-04-17 at 16 50 43" src="https://user-images.githubusercontent.com/73976733/232504805-b8b286d2-05dd-4c56-8816-d153538a6a4f.png">
 
-* למעבר למשחק באתר itch.io * :
+# למעבר למשחק באתר itch.io : 
+
+
  [itch.io:arrow_forward:](https://gamedevk-g.itch.io/tetrisracinggame) 
